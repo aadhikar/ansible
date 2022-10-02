@@ -67,3 +67,5 @@
 ##all:
 ##  vars:
 ##      commontoall: thisvar
+#
+test
